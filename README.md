@@ -1,8 +1,8 @@
 # 229-project
 
-Poster: [Machine Learning Poster.pdf](Machine Learning Poster.pdf)
+Poster: [MachineLearningPoster.pdf](MachineLearningPoster.pdf)
 
-Paper: [Machine Learning Project Report.pdf](Machine Learning Project Report.pdf)
+Paper: [BuildingLoadForecasting.pdf](BuildingLoadForecasting.pdf)
 
 Linear regression code: [Linear&Ridge_Regression.ipynb](Linear&Ridge_Regression.ipynb)
 
