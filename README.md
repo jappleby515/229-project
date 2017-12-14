@@ -1,10 +1,10 @@
 # 229-project
 
-Poster: [Machine Learning Poster.pdf](link)
+Poster: [Machine Learning Poster.pdf](Machine Learning Poster.pdf)
 
-Paper: [Machine Learning Project Report.pdf](link)
+Paper: [Machine Learning Project Report.pdf](Machine Learning Project Report.pdf)
 
-Linear regression code: [Linear&RidgeRegression.ipynb](link)
+Linear regression code: [Linear&RidgeRegression.ipynb](Linear&RidgeRegression.ipynb)
 
-ARIMA code: [ARIMA.ipynb](link)
+ARIMA code: [ARIMA.ipynb](ARIMA.ipynb)
 
